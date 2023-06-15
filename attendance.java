@@ -55,7 +55,7 @@ class attendance
     {
         System.out.println("there are "+absentee+" number of students absent today");
         System.out.println();
-        System.out.println("the details of the students absent are :");
+        System.out.println("the details of the students absent are given as :");
         for(int j=0;j<50;j++)
         {
             if(absentindex[j]!=0)
